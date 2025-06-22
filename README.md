@@ -28,6 +28,7 @@
 Experienced Full-Stack Developer with 1.6+ years in scalable web application development. Currently working as a Software Engineer at Bosch Global Software Technologies, where I've architected automation tools, led product migrations, and optimized system performance. Proficient in modern JavaScript frameworks, cloud technologies, and agile methodologies with a proven track record of delivering high-impact solutions and driving user adoption in enterprise environments.
 
 - 🌍 I'm based in **Coimbatore, Tamil Nadu, India**
+- 🖥️ See my portfolio at [https://grajrb.github.io/portfolio-hub/](https://grajrb.github.io/portfolio-hub/)
 - ✉️ You can contact me at [gauravupadhavay9801@gmail.com](mailto:gauravupadhavay9801@gmail.com)
 - 🧠 I'm learning **Advanced cloud technologies, Kubernetes, and microservices architecture**
 - 🤝 I'm open to collaborating on **Full-stack web applications, e-commerce platforms, real-time applications, and enterprise automation tools**
@@ -230,8 +231,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 ## 📫 Connect With Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gaurav-raj-095a8a129/">
+<div align="center">  <a href="https://www.linkedin.com/in/gaurav-raj-095a8a129/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/grajrb">
@@ -239,6 +239,9 @@ Python                   1 repo              █░░░░░░░░░░�
   </a>
   <a href="https://leetcode.com/u/gauravraj_9/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://grajrb.github.io/portfolio-hub/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
   </a>
 </div>
 
