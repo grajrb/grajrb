@@ -19,6 +19,9 @@
   <a href="https://www.github.com/grajrb" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/grajrb?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
   </a>
+  <a href="https://grajrb.github.io/portfolio-hub/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
