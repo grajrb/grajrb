@@ -28,7 +28,7 @@
 
 ### 🚀 About Me
 
-Experienced Full-Stack Developer with 1.6+ years in scalable web application development. Currently working as a Software Engineer at Bosch Global Software Technologies, where I've architected automation tools, led product migrations, and optimized system performance. Proficient in modern JavaScript frameworks, cloud technologies, and agile methodologies with a proven track record of delivering high-impact solutions and driving user adoption in enterprise environments.
+Experienced Full-Stack Developer with 1.7+ years in scalable web application development. Currently working as a Software Engineer at Bosch Global Software Technologies, where I've architected automation tools, led product migrations, and optimized system performance. Proficient in modern JavaScript frameworks, cloud technologies, and agile methodologies with a proven track record of delivering high-impact solutions and driving user adoption in enterprise environments.
 
 - 🌍 I'm based in **Coimbatore, Tamil Nadu, India**
 - 🖥️ See my portfolio at [https://grajrb.github.io/portfolio-hub/](https://grajrb.github.io/portfolio-hub/)
