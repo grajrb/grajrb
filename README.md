@@ -28,7 +28,7 @@
 
 ### 🚀 About Me
 
-Experienced Full-Stack Developer with 1.6+ years in scalable web application development. Currently working as a Software Engineer at Bosch Global Software Technologies, where I've architected automation tools, led product migrations, and optimized system performance. Proficient in modern JavaScript frameworks, cloud technologies, and agile methodologies with a proven track record of delivering high-impact solutions and driving user adoption in enterprise environments.
+Experienced Full-Stack Developer with 1.7+ years in scalable web application development. Currently working as a Software Engineer at Bosch Global Software Technologies, where I've architected automation tools, led product migrations, and optimized system performance. Proficient in modern JavaScript frameworks, cloud technologies, and agile methodologies with a proven track record of delivering high-impact solutions and driving user adoption in enterprise environments.
 
 - 🌍 I'm based in **Coimbatore, Tamil Nadu, India**
 - 🖥️ See my portfolio at [https://grajrb.github.io/portfolio-hub/](https://grajrb.github.io/portfolio-hub/)
@@ -152,9 +152,9 @@ Experienced Full-Stack Developer with 1.6+ years in scalable web application dev
   <img src="https://github.com/grajrb/grajrb/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" />
 </div>
 
-## 📊 WakaTime Stats
+## 📊 WakeTime Stats
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:wake-->
 ```text
 JavaScript   12 hrs 45 mins  ███████████████░░░░░░░   60.00% 
 TypeScript   4 hrs 30 mins   █████░░░░░░░░░░░░░░░░░   21.18% 
@@ -162,7 +162,7 @@ HTML         2 hrs 10 mins   ██░░░░░░░░░░░░░░░
 CSS          1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░   5.90% 
 JSON         30 mins         ░░░░░░░░░░░░░░░░░░░░░░   2.72%
 ```
-<!--END_SECTION:waka-->
+<!--END_SECTION:wake-->
 
 ## 📌 My GitHub Data
 
@@ -177,22 +177,22 @@ JSON         30 mins         ░░░░░░░░░░░░░░░░░
 I'm a Night 🦉
 
 ```text
-🌞 Morning    170 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
-🌆 Daytime    460 commits    ███████░░░░░░░░░░░░░░░░░░   27.78% 
-🌃 Evening    570 commits    ████████░░░░░░░░░░░░░░░░░   34.43% 
-🌙 Night      455 commits    ███████░░░░░░░░░░░░░░░░░░   27.52%
+🌞 Morning    70 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
+🌆 Daytime    60 commits    ███████░░░░░░░░░░░░░░░░░░   27.78% 
+🌃 Evening    70 commits    ████████░░░░░░░░░░░░░░░░░   34.43% 
+🌙 Night      55 commits    ███████░░░░░░░░░░░░░░░░░░   27.52%
 ```
 
 ## 📅 I'm Most Productive on Sunday
 
 ```text
-Monday       220 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.29% 
-Tuesday      235 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.19% 
-Wednesday    225 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
-Thursday     230 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
-Friday       230 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
-Saturday     245 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.80% 
-Sunday       270 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.35%
+Monday       20 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.29% 
+Tuesday      35 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.19% 
+Wednesday    25 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
+Thursday     30 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
+Friday       30 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
+Saturday     45 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.80% 
+Sunday       70 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.35%
 ```
 
 ## 📊 This Week I Spent My Time On
@@ -211,8 +211,8 @@ JSON                     1 hr 25 mins        █░░░░░░░░░░�
 VS Code                  19 hrs 30 mins      █████████████████████████   100.00%
 
 🐱‍💻 Projects: 
-EzCommerce               10 hrs 15 mins      █████████████░░░░░░░░░░░░   52.56% 
-Crypto-Chat-Sphere       9 hrs 15 mins       ████████████░░░░░░░░░░░░░   47.44%
+Notion Clone               10 hrs 15 mins    █████████████░░░░░░░░░░░░   52.56% 
+Crypto-Chat-Sphere         9 hrs 15 mins     ████████████░░░░░░░░░░░░░   47.44%
 
 💻 Operating System: 
 Windows                  19 hrs 30 mins      █████████████████████████   100.00%
