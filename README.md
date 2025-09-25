@@ -1,253 +1,227 @@
-# <div align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gaurav Raj</div>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" />
 </div>
 
-## <div align="center">Full-Stack Developer | JavaScript | React.js | Node.js</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gaurav-raj-095a8a129/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://leetcode.com/u/gauravraj_9/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
-  <a href="mailto:gauravupadhavay9801@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.github.com/grajrb" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/grajrb?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-  </a>
-  <a href="https://grajrb.github.io/portfolio-hub/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-### 🚀 About Me
-
-Experienced Full-Stack Developer with 1.7+ years in scalable web application development. Currently working as a Software Engineer at Bosch Global Software Technologies, where I've architected automation tools, led product migrations, and optimized system performance. Proficient in modern JavaScript frameworks, cloud technologies, and agile methodologies with a proven track record of delivering high-impact solutions and driving user adoption in enterprise environments.
-
-- 🌍 I'm based in **Coimbatore, Tamil Nadu, India**
-- 🖥️ See my portfolio at [https://grajrb.github.io/portfolio-hub/](https://grajrb.github.io/portfolio-hub/)
-- ✉️ You can contact me at [gauravupadhavay9801@gmail.com](mailto:gauravupadhavay9801@gmail.com)
-- 🧠 I'm learning **Advanced cloud technologies, Kubernetes, and microservices architecture**
-- 🤝 I'm open to collaborating on **Full-stack web applications, e-commerce platforms, real-time applications, and enterprise automation tools**
-- ⚡ **🏆 Global Rank 91 in CodeChef Long Challenge | 💼 Led VS Code migration achieving €870K savings | 🚀 Competitive programmer with strong algorithmic problem-solving skills**
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=grajrb&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/grajrb?style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/grajrb?style=social" alt="GitHub stars" />
-</p>
+<p align="center"><b>I'm Gaurav Raj — Full-Stack Developer (MERN/TypeScript) focused on building scalable, performant, and cleanly architected web applications.</b></p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=grajrb&theme=onedark&row=1&column=6" alt="trophy" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Connect" /> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect!</b></em>
-</div>
-
-## 🛠️ Skills
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" title="NextJs"/></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" title="Vue"/></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" title="Angular"/></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap"/></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" title="Material UI"/></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" title="Redux"/></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" title="Webpack"/></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" title="Express"/></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" title="GraphQL"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" title="Kubernetes"/></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" title="Amazon Web Services"/></a>
-</p>
-
-## 🌐 Socials
-
-<p align="left">
-  <a href="https://www.github.com/grajrb" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" />
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/in/gaurav-raj-095a8a129/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-    </picture>
-  </a>
-</p>
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <a href="http://www.github.com/grajrb">
-    <img src="https://github-readme-stats.vercel.app/api?username=grajrb&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="http://www.github.com/grajrb">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=grajrb&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/grajrb">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grajrb&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=grajrb&theme=onedark&row=1&column=6" alt="trophy" />
-</div>
-
-## 🏆 3D GitHub Contribution Graph
-
-```
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-
-<div align="center">
-  <img src="https://github.com/grajrb/grajrb/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" />
-</div>
-
-## 📊 WakeTime Stats
-
-<!--START_SECTION:wake-->
-```text
-JavaScript   12 hrs 45 mins  ███████████████░░░░░░░   60.00% 
-TypeScript   4 hrs 30 mins   █████░░░░░░░░░░░░░░░░░   21.18% 
-HTML         2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░   10.20% 
-CSS          1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░   5.90% 
-JSON         30 mins         ░░░░░░░░░░░░░░░░░░░░░░   2.72%
-```
-<!--END_SECTION:wake-->
-
-## 📌 My GitHub Data
-
-- 📦 10.5 MB Used in GitHub's Storage
-- 🏆 750+ Contributions in the Year 2025
-- 💼 Open to Job Opportunities
-- 📜 20+ Public Repositories
-- 🔑 3 Private Repositories
-
-## 🕰️ When I Code
-
-I'm a Night 🦉
-
-```text
-🌞 Morning    70 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
-🌆 Daytime    60 commits    ███████░░░░░░░░░░░░░░░░░░   27.78% 
-🌃 Evening    70 commits    ████████░░░░░░░░░░░░░░░░░   34.43% 
-🌙 Night      55 commits    ███████░░░░░░░░░░░░░░░░░░   27.52%
-```
-
-## 📅 I'm Most Productive on Sunday
-
-```text
-Monday       20 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.29% 
-Tuesday      35 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.19% 
-Wednesday    25 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
-Thursday     30 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
-Friday       30 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
-Saturday     45 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.80% 
-Sunday       70 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.35%
-```
-
-## 📊 This Week I Spent My Time On
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               8 hrs 45 mins       ███████████░░░░░░░░░░░░░░   45.00% 
-TypeScript               5 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   27.00% 
-HTML                     2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.00% 
-CSS                      1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.00% 
-JSON                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.00%
-
-🔥 Editors: 
-VS Code                  19 hrs 30 mins      █████████████████████████   100.00%
-
-🐱‍💻 Projects: 
-Notion Clone               10 hrs 15 mins    █████████████░░░░░░░░░░░░   52.56% 
-Crypto-Chat-Sphere         9 hrs 15 mins     ████████████░░░░░░░░░░░░░   47.44%
-
-💻 Operating System: 
-Windows                  19 hrs 30 mins      █████████████████████████   100.00%
-```
-
-## 🧰 I Mostly Code in JavaScript
-
-```text
-JavaScript               12 repos            ███████████░░░░░░░░░░░░░░   45.00% 
-TypeScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   30.00% 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00% 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.50% 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   2.50%
-```
-
-<div align="center">
-  <b>Last Updated on June 21, 2025 02:51:15 UTC</b>
-</div>
-
-## 📫 Connect With Me
-
-<div align="center">  <a href="https://www.linkedin.com/in/gaurav-raj-095a8a129/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/grajrb">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/u/gauravraj_9/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://grajrb.github.io/portfolio-hub/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
-  </a>
+  <b>📞 +91-7992425448 | 📧 gauravupadhayay9801@gmail.com</b><br/>
+  <b>🔗 <a href="https://linkedin.com/in/gaurav-raj1" target="_blank">LinkedIn</a> · <a href="https://github.com/grajrb" target="_blank">GitHub</a> · <a href="https://portfolio-hub-chi.vercel.app" target="_blank">Portfolio</a> · <a href="https://leetcode.com/u/gauravraj_9" target="_blank">LeetCode</a></b>
 </div>
 
 ---
 
-### 💖 Show some love by starring some of the repositories!
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws" height="60" alt="Skill Icons" />
+</div>
+
+<div align="center" style="margin-top:8px;">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn Badge" />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="Twitter Badge" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="Discord Badge" />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="25" alt="Dev.to Badge" />
+</div>
+
+---
+
+### 🧾 Professional Summary
+
+Experienced Full-Stack Developer with 2 years architecting scalable applications using the MERN Stack. Proven expertise in JavaScript, TypeScript, and API Integration with demonstrated success in reducing deployment time by 80% and improving API performance by 25%.
+
+Currently working as a Full Stack Developer at Bosch Global Software Technologies, architecting automation tools, leading developer experience improvements (VS Code migration €870K savings), and performance tuning across PostgreSQL/Redis layers.
+
+### 🎯 Highlights
+- 📍 Coimbatore, Tamil Nadu, India
+- 🧠 Focus: System Design, Microservices, Performance Optimization
+- 🏆 Global Rank 91 – CodeChef Long Challenge (2023)
+- 🚀 Impact: 80% faster deployments | 25% API performance boost
+- 🤝 Open to: High-impact full-stack / platform engineering collaboration
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=grajrb&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/grajrb?style=social" />
+  <img src="https://img.shields.io/github/stars/grajrb?style=social" />
+</p>
+
+---
+
+### 🛠 Comprehensive Tech Stack
+
+<details open>
+<summary><b>🎨 Frontend Technologies</b></summary>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" height="36" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="36" alt="Redux" />
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" height="26" alt="React Query" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="36" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" alt="Bootstrap" />
+</p>
+</details>
+
+<details open>
+<summary><b>🧩 Backend & APIs</b></summary>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36" alt="Express" />
+  <img src="https://img.shields.io/badge/NestJS-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" height="26" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="36" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/RESTful%20APIs-009688?style=for-the-badge&logo=api&logoColor=white" height="26" alt="RESTful APIs" />
+  <img src="https://img.shields.io/badge/Microservices-4285F4?style=for-the-badge&logo=cloudflare&logoColor=white" height="26" alt="Microservices Architecture" />
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Storage</b></summary>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" />
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" height="26" alt="TypeORM" />
+  <img src="https://img.shields.io/badge/Mongoose-47A248?style=for-the-badge&logo=mongoose&logoColor=white" height="26" alt="Mongoose" />
+</p>
+</details>
+
+<details open>
+<summary><b>☁️ Cloud, DevOps & Infrastructure</b></summary>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="26" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" />
+  <img src="https://img.shields.io/badge/CI/CD-242938?style=for-the-badge&logo=githubactions&logoColor=white" height="26" alt="CI/CD Pipelines" />
+</p>
+</details>
+
+<details open>
+<summary><b>🧪 Testing & Quality</b></summary>
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="26" alt="Jest" />
+  <img src="https://img.shields.io/badge/Unit%20Testing-4CAF50?style=for-the-badge&logo=testcafe&logoColor=white" height="26" alt="Unit Testing" />
+  <img src="https://img.shields.io/badge/Integration%20Testing-FF9800?style=for-the-badge&logo=testinglibrary&logoColor=white" height="26" alt="Integration Testing" />
+  <img src="https://img.shields.io/badge/TDD-E91E63?style=for-the-badge&logo=protocols.io&logoColor=white" height="26" alt="TDD" />
+  <img src="https://img.shields.io/badge/Performance%20Optimization-9C27B0?style=for-the-badge&logo=lighthouse&logoColor=white" height="26" alt="Performance Optimization" />
+</p>
+</details>
+
+<details open>
+<summary><b>🧠 Concepts & Methodologies</b></summary>
+<p>
+  <img src="https://img.shields.io/badge/System%20Design-FF6B35?style=for-the-badge&logo=construct3&logoColor=white" height="26" alt="System Design" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-3F51B5?style=for-the-badge&logo=apachekafka&logoColor=white" height="26" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=jirasoftware&logoColor=white" height="26" alt="Agile" />
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" height="26" alt="Scrum" />
+  <img src="https://img.shields.io/badge/API%20Design-FF5722?style=for-the-badge&logo=swagger&logoColor=white" height="26" alt="API Design" />
+  <img src="https://img.shields.io/badge/TDD-E91E63?style=for-the-badge&logo=protocols.io&logoColor=white" height="26" alt="TDD" />
+</p>
+</details>
+
+<details open>
+<summary><b>⌨️ Programming & Scripting</b></summary>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="26" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" height="26" alt="Bash" />
+</p>
+</details>
+
+<details>
+<summary><b>🔁 Also Worked With / Exploring</b></summary>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="36" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="36" alt="Rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="36" alt="CircleCI" />
+</p>
+</details>
+
+---
+
+### 📈 Pacman Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grajrb/grajrb/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grajrb/grajrb/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/grajrb/grajrb/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🏢 Experience
+
+### Bosch Global Software Technologies – Full Stack Developer (Jan 2024 – Present)
+Architected automation platforms (React + Node microservices) reducing manual workloads 20%. Led VS Code migration (26% adoption → €870K OPEX savings). Implemented Jest unit/integration test coverage & optimized PostgreSQL + Redis for 25% faster API responses.
+
+### HighRadius Technologies – Full Stack Developer Intern (Jan 2022 – Apr 2022)
+Built scalable REST APIs (Node/Express) improving response latency 25%. Implemented Role-Based Access Control for 5 user roles (ES6+).
+
+---
+
+## 🚀 Projects
+
+### EzCommerce (MERN, Redux, JWT, Stripe)
+Repo: https://github.com/grajrb/EzCommerce  
+Scalable e-commerce stack with secure payments, JWT auth, admin inventory dashboard.
+
+### EventBookingSystem (TypeScript, React, Node.js, Socket.io, Material UI)
+Repo: https://github.com/grajrb/EventBookingSystem  
+Real-time event booking, responsive UI, secure booking workflows, admin analytics.
+
+---
+
+## 🎓 Education
+SRM Institute of Science and Technology – B.Tech CSE (2019–2023) | CGPA: 8.74/10.0  
+Achievements: CodeChef Global Rank 91 (2023) · Led VS Code Migration (2024)
+
+---
+
+## 📊 GitHub & Coding Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grajrb&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=grajrb&show_icons=true&theme=dracula&rank_icon=github" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=grajrb&layout=compact&theme=dracula" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=grajrb&theme=dracula&row=1&column=6" height="120" />
+</div>
+
+---
+
+## 🐍 Snake & Grid Animations
+<div align="center">
+  <img src="https://raw.githubusercontent.com/grajrb/grajrb/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 📫 Connect
+<div align="center">
+  <a href="https://linkedin.com/in/gaurav-raj1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gauravupadhayay9801@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/gauravraj_9"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://portfolio-hub-chi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</div>
+
+---
+
+<div align="center"><b>💖 If you found something interesting here, consider starring a repo!</b></div>
+
+---
+
+<!-- Retained original ASCII art block (optional) can be re-added if desired -->
