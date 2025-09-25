@@ -150,14 +150,14 @@ Currently working as a Full Stack Developer at Bosch Global Software Technologie
 </details>
 
 ---
-
+<!-- 
 ### 📈 Pacman Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grajrb/grajrb/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grajrb/grajrb/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/grajrb/grajrb/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ---
 
