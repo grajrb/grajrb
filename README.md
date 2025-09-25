@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws" height="60" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,nestjs,py,aws" height="60" alt="Skill Icons" />
 </div>
 
 <div align="center" style="margin-top:8px;">
