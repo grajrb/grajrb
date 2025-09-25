@@ -1,15 +1,17 @@
-name: Generate pacman animation
+name: Generate pacman animation (DISABLED)
 
-on:
-  schedule:
-    - cron: '* */12 * * *' # Every 12 hours
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+# Workflow disabled: triggers commented out. Re-enable by restoring 'on' section
+# on:
+#   schedule:
+#     - cron: '* */12 * * *' # Every 12 hours
+#   workflow_dispatch:
+#   push:
+#     branches:
+#       - main
 
 jobs:
   generate:
+    if: false # Hard disable job execution. Remove this line to re-enable.
     permissions:
       contents: write
     runs-on: ubuntu-latest
