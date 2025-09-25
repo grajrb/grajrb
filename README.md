@@ -149,7 +149,6 @@ Currently working as a Full Stack Developer at Bosch Global Software Technologie
 </p>
 </details>
 
----
 <!-- 
 ### 📈 Pacman Contribution Graph
 
@@ -159,7 +158,6 @@ Currently working as a Full Stack Developer at Bosch Global Software Technologie
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/grajrb/grajrb/output/pacman-contribution-graph.svg">
 </picture> -->
 
----
 
 ## 🏢 Experience
 
