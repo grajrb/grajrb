@@ -25,13 +25,6 @@
   <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,nestjs,py,aws" height="60" alt="Skill Icons" />
 </div>
 
-<div align="center" style="margin-top:8px;">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn Badge" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="Twitter Badge" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="Discord Badge" />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="25" alt="Dev.to Badge" />
-</div>
-
 ---
 
 ### 🧾 Professional Summary
