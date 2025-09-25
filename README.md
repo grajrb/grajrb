@@ -6,6 +6,14 @@
 
 <p align="center"><b>I'm Gaurav Raj — Full-Stack Developer (MERN/TypeScript) focused on building scalable, performant, and cleanly architected web applications.</b></p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/gaurav-raj1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/gauravraj_9" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="mailto:gauravupadhayay9801@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/grajrb" target="_blank"><img src="https://img.shields.io/github/followers/grajrb?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Followers" /></a>
+  <a href="https://portfolio-hub-chi.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio" /></a>
+</p>
+
 <div align="center">
   <b>📞 +91-7992425448 | 📧 gauravupadhayay9801@gmail.com</b><br/>
   <b>🔗 <a href="https://linkedin.com/in/gaurav-raj1" target="_blank">LinkedIn</a> · <a href="https://github.com/grajrb" target="_blank">GitHub</a> · <a href="https://portfolio-hub-chi.vercel.app" target="_blank">Portfolio</a> · <a href="https://leetcode.com/u/gauravraj_9" target="_blank">LeetCode</a></b>
