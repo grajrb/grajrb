@@ -201,9 +201,15 @@ Achievements: CodeChef Global Rank 91 (2023) · Led VS Code Migration (2024)
 
 ---
 
-## 🐍 Snake & Grid Animations
+## � Pacman Contribution Graph
 <div align="center">
-  <img src="https://raw.githubusercontent.com/grajrb/grajrb/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grajrb/grajrb/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grajrb/grajrb/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/grajrb/grajrb/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
+  </picture>
+  <br/>
+  <sub><i>Auto-generated every 12 hours via GitHub Actions.</i></sub>
 </div>
 
 ---
