@@ -169,17 +169,7 @@ Built scalable REST APIs (Node/Express) improving response latency 25%. Implemen
 
 ---
 
-## 🚀 Projects
-
-### EzCommerce (MERN, Redux, JWT, Stripe)
-Repo: https://github.com/grajrb/EzCommerce  
-Scalable e-commerce stack with secure payments, JWT auth, admin inventory dashboard.
-
-### EventBookingSystem (TypeScript, React, Node.js, Socket.io, Material UI)
-Repo: https://github.com/grajrb/EventBookingSystem  
-Real-time event booking, responsive UI, secure booking workflows, admin analytics.
-
----
+<!-- Projects section removed as requested -->
 
 ## 🎓 Education
 SRM Institute of Science and Technology – B.Tech CSE (2019–2023) | CGPA: 8.74/10.0  
@@ -201,7 +191,7 @@ Achievements: CodeChef Global Rank 91 (2023) · Led VS Code Migration (2024)
 
 ---
 
-## � Pacman Contribution Graph
+## 🟡 Pacman Contribution Graph
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grajrb/grajrb/output/pacman-contribution-graph-dark.svg" />
